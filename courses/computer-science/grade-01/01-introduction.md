@@ -28,23 +28,33 @@ Great! Your app is running. If Xcode fails to build the app **STOP** and let you
 
 Now we will run your app's tests. With Xcode open:
 
-- Open the `Grade1Tests` folder
+- Expand the `Grade1Tests` folder
 - Tap on the `BeginHereTests` file
 - Tap on the diamond ⏵ button next to the left of `final class BeginHereTests`
 
 Very nice! You should see Xcode build your app, tests, and show the results of your test in the "Debug area".
 
-### Debug area
+### Debug Area
 
-The Debug area is how we will know our tests pass. It will also show us what our app is doing. You may have noticed after running your first test, "Hello, World" is displayed in the Debug area. If you haven't, do it now!
+The Debug area is how we will know our tests pass. It will also show us what our app is doing.
 
-### What's Next?
+When you ran the tests you should have seen the Debug area pop-up from the bottom. If it isn't up, enter `Command` + `Shift` + `y` to open the Debug area.
 
-Look at the Grade1 tests. You will notice several test files. Each of these files is a lesson that teach you a single concept.
+You should see the test results as well as "Hello, World" displayed somewhere in the Debug area.
+
+### Test Files
+
+- Expand the `Grade1Tests` folder.
+
+You will notice several test files. Each of these files is a lesson that will teach you a new concept.
+
+### Lessons
+
+Within the `Grade1Tests` folder:
 
 - Open `Lesson_01_VariablesTests`.
 
-You will notice several tests within the lesson. Each test builds on the previous test. Therefore, please work on the lesson from top to bottom.
+You will notice several tests within this lesson. Each test builds on the previous test. Therefore, please work on the lesson from top to bottom.
 
 You will also notice that each test will explain a concept and asks you to write the code that will make the test pass.
 
@@ -54,6 +64,10 @@ You should see Xcode build and run tests. Xcode should show several test errors.
 
 > Teacher: Help the student write the logic for the first test
 
-> Tip: Tapping the ⏵ button can be cumbersome. You can re-run your last test by holding `Control` + `Option` + `Command` + `g`.
+> Tip: If tapping the ⏵ button is too cumbersome, you can re-run your last test by holding `Control` + `Option` + `Command` + `g`.
 
-Once you make all of the tests pass in the lesson, you can move to the next lesson. Once all lessons are finished, you have passed Grade 1 Computer Science!
+### What's Next?
+
+Once you make all of the tests pass in the lesson, you can move to the next lesson.
+
+Once all lessons are finished, you have passed Grade 1 and can move on to Grade 2!
