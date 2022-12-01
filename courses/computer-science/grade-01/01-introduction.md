@@ -6,22 +6,17 @@ When you complete these courses, you will be able to find a job in software deve
 
 ## Tools
 
-- A terminal
 - Xcode
 - The Base Project (it is in this repository that you downloaded)
 
-## What is a Terminal?
-
-TODO
-
 ## What is Xcode?
 
-TODO
+Xcode is an IDE (Integrated Development Environment) that helps you develop software.
 
 ## Getting Started
 
-- In Finder, open the `ComputerScience.xcworkspace` Xcode project.
-- Tap the ⏵ button at the top left of the app.
+- In Finder, open the `grade-01/Grade1/Grade1.xcodeproj` Xcode project.
+- Tap the ▷ button at the top left of the app.
 - You should see Xcode build the app, launch a simulator, and run the app
 
 Great! Your app is running. If Xcode fails to build the app **STOP** and let your teacher know.
@@ -30,7 +25,7 @@ Now we will run your app's tests. With Xcode open:
 
 - Expand the `Grade1Tests` folder
 - Tap on the `BeginHereTests` file
-- Tap on the diamond ⏵ button next to the left of `final class BeginHereTests`
+- Tap on the diamond ▷ button next to the left of `final class BeginHereTests`
 
 Very nice! You should see Xcode build your app, tests, and show the results of your test in the "Debug area".
 
@@ -58,13 +53,13 @@ You will notice several tests within this lesson. Each test builds on the previo
 
 You will also notice that each test will explain a concept and asks you to write the code that will make the test pass.
 
-- Tap on the diamond ⏵ next to the left of `final class Lesson_01_VariablesTests`
+- Tap on the diamond ▷ next to the left of `final class Lesson_01_VariablesTests`
 
 You should see Xcode build and run tests. Xcode should show several test errors. This is good! Now it's your turn to make them pass!
 
 > Teacher: Help the student write the logic for the first test
 
-> Tip: If tapping the ⏵ button is too cumbersome, you can re-run your last test by holding `Control` + `Option` + `Command` + `g`.
+> Tip: If tapping the ▷ button is too cumbersome, you can re-run your last test by holding `Control` + `Option` + `Command` + `g`.
 
 ### What's Next?
 
