@@ -137,10 +137,16 @@ final class Lesson_02_PrimitiveDataTypesTests: XCTestCase {
     }
 
     /**
-     Closing
+     Closing - Choosing the Right Data Type
 
      It can sometimes be a challenge to know what data type best fits a given situation.
 
-     TBD
+     Here are some helpful rules you can follow:
+       - Will the value always be represented as a number? If so, use `Integer`.
+       - Will the number value ever be fractional? If so, use `Float`.
+       - Will the decimal value require a precision greater than 6 digits past the decimal? If so, use `Double`.
+       - Will the value only ever be `true` or `false`? If so, use `Bool`.
+
+     Everythine else can be a `String`.
      */
 }
