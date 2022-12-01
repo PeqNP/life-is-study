@@ -24,9 +24,9 @@ Building on top of that, your child will learn how to:
   - Weight lifting
   - Sports
 - Nutrition - Cooking, Supplementation
-- Business - Prototyping, Product Development, Process, and Marketing
+- Business - Prototyping, Product Development, Process, Marketing, Payment, Distribution, etc.
 
-The school will have many extra-curricular activities that your child can learn, including:
+The school will have many elective skill classes, including:
 
 - Flying drones (Competition and/or Business Certification)
 - Mindset
@@ -65,6 +65,15 @@ Restrictions:
 
 - Students may apply only minimal makeup
 - No perfume, cologne, etc.
+- No dying of hair
+- No temporary or permanent tattoos
+- Simple jewelry including (only 1 at a time)
+  - Small earing in both ears
+  - 1 necklace
+  - 1 wrist bracelet
+  - 2 rings
+
+We want to provide students a way to express themselves without it becoming a distraction to learning.
 
 ## Lunch
 
@@ -100,7 +109,7 @@ Highschool 9-12, five 1h skill classes per day. Teaching is focused on building 
 
 Students are required to clean their classrooms at the end of the day. K-2 will be simple cleanup of their own desk. 3-12 will clean floors, remove refuse, and ensure all spaces are clean.
 
-The school is segragated by K-5, Middleschool, and Highschool. Each have their own play area. Break and play times are the same.
+The school buildings are segragated by K-5, Middleschool, and Highschool. Each have their own play area. Break and play times are the same.
 
 ## Miscellaneous
 
@@ -126,4 +135,39 @@ Once your child graduates our K-12 program, they should be immediately employabl
 - Software developer
 - Sales
 - Business owner in a variety of different fields
+- Preparation for traveling to Mars. Will provide guidance, scholarship, and help find internship to students who wish to do this.
 - etc.
+
+## Opportunity Board
+
+The Opportunity Board is where students may find available jobs that the school requires to operate.
+
+In order to graduate, a student must demonstrate their ability to run a business. The following skills are provided to all students, of legal working age:
+
+- Accounting - Data entry, spreadsheet, balance books
+- Acquisition - Purchase tools, food, etc. used to operate the school
+- Chef / Line cook / Server - Prepare student lunches
+- IT - Help administrators manage inventory, HW/SF installation, networking, etc.
+- Janitorial - Clean all spaces not cleaned up by students. Hallways, bathrooms, etc.
+- Landscaping - Removing debris, weeding, cutting bushes, refuse cleanup, etc.
+- Mowing lawns - Mowing, trimming grass edges, removing debris
+- Orientation - Helping new students become acquainted with the school
+- Server Maintenance - Help maintain the servers that run the school's software
+- Tutor - Help students learn skills you have already learned
+- Web Design & Intranet - Manage our public and private facing websites
+
+Students will be:
+
+- Required to learn certain skills before they can start certain jobs
+- Trained on the job
+- Paid accordingly for their work
+- Required to sign liability forms for certain jobs - e.g. operating lawn mowers
+
+All equipment is provided. The monies collected will be deposited directly into a student's bank account that their parents setup. These monies will be used for
+
+- Skill classes required for financial literacy - Saving, budgeting, etc.
+- Preparing taxes
+
+Ideally, we want to see students start their own independent businesses outside of school. But it's not required. Any experience collected outside of school will count towards their graduation credits.
+
+It is not required that a job be performed on a daily basis. However, it must be routine and consistent. At least one job twice per week taking at least 2 hours.
