@@ -56,6 +56,13 @@ final class BeginHereTests: XCTestCase {
          Please remove the `//` from the beginning of the operation below and run the test.
          */
         //XCTAssertTrue(true)
+
+        /**
+         You may also be asked to comment an operation.
+
+         To do this, add `//` to the front of the operation below.
+         */
+        XCTAssertTrue(false)
     }
 
     func testWhatIsABug() throws {

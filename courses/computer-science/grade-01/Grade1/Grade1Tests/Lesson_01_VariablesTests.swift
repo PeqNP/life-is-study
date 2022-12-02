@@ -47,7 +47,7 @@ final class Lesson_01_VariableTests: XCTestCase {
          Let's assign a value of `2` to `numberOfPencils`.
          */
         let numberOfPencils = 0
-        XCTAssertEqual(numberOfBooks, 2)
+        XCTAssertEqual(numberOfPencils, 2)
 
         /**
          Wonderful!

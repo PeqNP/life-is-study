@@ -14,6 +14,9 @@
 		5A6A320C293900500070D155 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A6A320B293900500070D155 /* Assets.xcassets */; };
 		5A6A3210293900500070D155 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A6A320F293900500070D155 /* Preview Assets.xcassets */; };
 		5A6A321A293900500070D155 /* BeginHereTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6A3219293900500070D155 /* BeginHereTests.swift */; };
+		5A9A820C293A55B6004E14D3 /* Lesson_04_OptionalsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9A820B293A55B6004E14D3 /* Lesson_04_OptionalsTests.swift */; };
+		5A9A820E293A5D77004E14D3 /* Lesson_03_ConditionalStatementsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9A820D293A5D77004E14D3 /* Lesson_03_ConditionalStatementsTests.swift */; };
+		5A9A8212293A61F6004E14D3 /* Lesson_0X_VariableScopeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9A8211293A61F6004E14D3 /* Lesson_0X_VariableScopeTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +40,9 @@
 		5A6A320F293900500070D155 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5A6A3215293900500070D155 /* Grade1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Grade1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A6A3219293900500070D155 /* BeginHereTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeginHereTests.swift; sourceTree = "<group>"; };
+		5A9A820B293A55B6004E14D3 /* Lesson_04_OptionalsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson_04_OptionalsTests.swift; sourceTree = "<group>"; };
+		5A9A820D293A5D77004E14D3 /* Lesson_03_ConditionalStatementsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson_03_ConditionalStatementsTests.swift; sourceTree = "<group>"; };
+		5A9A8211293A61F6004E14D3 /* Lesson_0X_VariableScopeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson_0X_VariableScopeTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +105,9 @@
 				5A6A3219293900500070D155 /* BeginHereTests.swift */,
 				587D4F862939433600E95C2C /* Lesson_01_VariablesTests.swift */,
 				587D4F8829394F7500E95C2C /* Lesson_02_PrimitiveDataTypesTests.swift */,
+				5A9A820D293A5D77004E14D3 /* Lesson_03_ConditionalStatementsTests.swift */,
+				5A9A820B293A55B6004E14D3 /* Lesson_04_OptionalsTests.swift */,
+				5A9A8211293A61F6004E14D3 /* Lesson_0X_VariableScopeTests.swift */,
 			);
 			path = Grade1Tests;
 			sourceTree = "<group>";
@@ -224,7 +233,10 @@
 			files = (
 				587D4F8929394F7500E95C2C /* Lesson_02_PrimitiveDataTypesTests.swift in Sources */,
 				587D4F872939433600E95C2C /* Lesson_01_VariablesTests.swift in Sources */,
+				5A9A820E293A5D77004E14D3 /* Lesson_03_ConditionalStatementsTests.swift in Sources */,
+				5A9A820C293A55B6004E14D3 /* Lesson_04_OptionalsTests.swift in Sources */,
 				5A6A321A293900500070D155 /* BeginHereTests.swift in Sources */,
+				5A9A8212293A61F6004E14D3 /* Lesson_0X_VariableScopeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
