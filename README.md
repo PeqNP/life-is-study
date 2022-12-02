@@ -24,6 +24,7 @@ Building on top of that, your child will learn how to:
   - Weight lifting
   - Sports
 - Nutrition - Cooking, Supplementation
+- Learn an instrument or sing
 - Business - Prototyping, Product Development, Process, Marketing, Payment, Distribution, etc.
 
 The school will have many elective skill classes, including:
@@ -125,8 +126,9 @@ Some homework may require a computer. For example, computer science skill classe
 
 In order to graduate, a student must demonstrate:
 
-- Mastery of a single martial art
-- Mastery of a single sport
+- Mastery of a martial art
+- Mastery of a sport
+- Mastery of a musical instrument
 - Strength. Weight is dependent on individual. The most important metric is progress shown over time.
 - Creating and selling a product or service. This can be done as a team or as an individual.
 
