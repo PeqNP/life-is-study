@@ -74,13 +74,7 @@ final class Lesson_03_ConditionalStatementsTests: XCTestCase {
          `10_000_000`
 
          Back to `if` statements!
-
-         ---
-
-         Please complete the remainder tests.
          */
-
-        // TODO: TBD
     }
 
     func testElseIfStatement() throws {
@@ -89,7 +83,70 @@ final class Lesson_03_ConditionalStatementsTests: XCTestCase {
 
          The `else if` statement allows us to perform more than two behaviors.
 
-         TODO: 
+         A common statement if statement may be, "What should I eat for breakfast?" It depends!
+
+         Ideally, we want a healthy breakfast. Therefore, you may make miso soup (a common Japanese breakfast meal).
+
+         However, if you don't want to healthy, but you have milk, maybe you'll have a bowl of cereal.
+
+         If you don't want to take the time to be healthy, or have milk, you may decide to eat nothing!
+
+         Below is a translation of these `if` statements.
+
+         Please make all of the `if` statement tests pass.
+         */
+
+        var isHealthyBreakfast = false
+        var isMilkAvailable = false
+
+        if isHealthyBreakfast {
+            print("Congratulations! Your mother would be proud.")
+        }
+        else if isMilkAvailable {
+            XCTAssertTrue(false, "You should eat a healthy breakfast.")
+        }
+        else {
+            XCTAssertTrue(false, "You should eat something if you want to grow!")
+        }
+
+        /**
+         Change the values of the variables above to make these tests pass.
+         */
+
+        if isHealthyBreakfast {
+            XCTAssertTrue(false, "I don't feel like being healthy today.")
+        }
+        else if isMilkAvailable {
+            print("At least I ate something. And milk will make my bones grow stronger. Right?")
+        }
+        else {
+            XCTAssertTrue(false, "You should eat something if you want to grow!")
+        }
+
+        /**
+         Change the values of the variables above to make these tests pass.
+         */
+
+        if isHealthyBreakfast {
+            XCTAssertTrue(false, "I don't feel like being healthy today.")
+        }
+        else if isMilkAvailable {
+            XCTAssertTrue(false, "Cereal has too much sugar 🥵.")
+        }
+        else {
+            print("Papa says intermittent fasting is good.")
+        }
+
+        /**
+         `else if` statements are not limited to three cases.
+         */
+    }
+
+    func testExplore() throws {
+        /**
+         Explore
+
+         Think of something you do in life that can translate into an `if` statement. Write it below and show your work to your teacher.
          */
     }
 }

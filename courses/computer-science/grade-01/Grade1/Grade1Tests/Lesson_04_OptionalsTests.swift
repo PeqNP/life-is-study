@@ -90,7 +90,7 @@ final class Lesson_04_OptionalsTests: XCTestCase {
         }
 
         /**
-         What is printed in the Debug area?
+         What is displayed in the Debug area?
 
          If `teacherName` is assigned a value, the `if let` operator will assign it to a new non-optional `name` variable. We can then use the `name` variable in our conditional block.
 
@@ -104,8 +104,10 @@ final class Lesson_04_OptionalsTests: XCTestCase {
          */
     }
 
-    func testUnwrapOptionals() throws {
+    func testExplore() throws {
         /**
+         Explore
+
          Let's test what we learned so far!
 
          Please assign variables, write your own `if let` statements, etc. to make all tests pass.
