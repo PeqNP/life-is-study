@@ -1,3 +1,5 @@
 # Required Skills
 
-TBD
+- Algebra
+- Typing
+- macOS Fundamentals
